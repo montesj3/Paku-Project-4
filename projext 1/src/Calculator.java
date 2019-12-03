@@ -4,7 +4,7 @@ public class Calculator {
         Scanner user = new Scanner (System.in); //Scanner = user b/c user is keyboard input
         double operand1, operand2, result = 0;
         int userOp;
-
+        //comment for GITHUB
         System.out.print("Enter first operand: ");
             operand1 = user.nextDouble();
         System.out.print("Enter second operand: ");
